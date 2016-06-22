@@ -1,0 +1,651 @@
+.poly {
+  height: 80vh;
+  margin-top: 10vh;
+  margin-left: 10vh; }
+
+#Layer_4 .st0 {
+  fill: #B73D66; }
+#Layer_4 .st1 {
+  fill: #342D22; }
+#Layer_4 .st2 {
+  fill: #3C3326; }
+#Layer_4 .st3 {
+  fill: #C69F6E; }
+#Layer_4 .st4 {
+  fill: #AD6840; }
+#Layer_4 .st5 {
+  fill: #52362F; }
+#Layer_4 .st6 {
+  fill: #5E3A20; }
+#Layer_4 .st7 {
+  fill: #9C5639; }
+#Layer_4 .st8 {
+  fill: #BC6A47; }
+#Layer_4 .st9 {
+  fill: #43261C; }
+#Layer_4 .st10 {
+  fill: #512A1D; }
+#Layer_4 .st11 {
+  fill: #BF6645; }
+#Layer_4 .st12 {
+  fill: #C35B34; }
+#Layer_4 .st13 {
+  fill: #DB6A4C; }
+#Layer_4 .st14 {
+  fill: #D36A45; }
+#Layer_4 .st15 {
+  fill: #DE7654; }
+#Layer_4 .st16 {
+  fill: #BC4A35; }
+#Layer_4 .st17 {
+  fill: #BC5F3D; }
+#Layer_4 .st18 {
+  fill: #DA7655; }
+#Layer_4 .st19 {
+  fill: #581F17; }
+#Layer_4 .st20 {
+  fill: #2E180B; }
+#Layer_4 .st21 {
+  fill: #E7845F; }
+#Layer_4 .st22 {
+  fill: #281E17; }
+#Layer_4 .st23 {
+  fill: #3B3326; }
+#Layer_4 .st24 {
+  fill: #B65535; }
+#Layer_4 .st25 {
+  fill: #2D201B; }
+#Layer_4 .st26 {
+  fill: #281E16; }
+#Layer_4 .st27 {
+  fill: #201914; }
+#Layer_4 .st28 {
+  fill: #D76441; }
+#Layer_4 .st29 {
+  fill: #A83F31; }
+#Layer_4 .st30 {
+  fill: #1D140F; }
+#Layer_4 .st31 {
+  fill: #E8785A; }
+#Layer_4 .st32 {
+  fill: #E5724C; }
+#Layer_4 .st33 {
+  fill: #ED9072; }
+#Layer_4 .st34 {
+  fill: #E18061; }
+#Layer_4 .st35 {
+  fill: #E78964; }
+#Layer_4 .st36 {
+  fill: #531B1D; }
+#Layer_4 .st37 {
+  fill: #963C37; }
+#Layer_4 .st38 {
+  fill: #E17E60; }
+#Layer_4 .st39 {
+  fill: #1D180F; }
+#Layer_4 .st40 {
+  fill: #221A14; }
+#Layer_4 .st41 {
+  fill: #A53C28; }
+#Layer_4 .st42 {
+  fill: #DB714A; }
+#Layer_4 .st43 {
+  fill: #EB875E; }
+#Layer_4 .st44 {
+  fill: #281912; }
+#Layer_4 .st45 {
+  fill: #411D18; }
+#Layer_4 .st46 {
+  fill: #201013; }
+#Layer_4 .st47 {
+  fill: #1E0F0E; }
+#Layer_4 .st48 {
+  fill: #D4694F; }
+#Layer_4 .st49 {
+  fill: #A64734; }
+#Layer_4 .st50 {
+  fill: #22120C; }
+#Layer_4 .st51 {
+  fill: #A52D2E; }
+#Layer_4 .st52 {
+  fill: #DA6040; }
+#Layer_4 .st53 {
+  fill: #D96E48; }
+#Layer_4 .st54 {
+  fill: #743130; }
+#Layer_4 .st55 {
+  fill: #98322F; }
+#Layer_4 .st56 {
+  fill: #BB4A30; }
+#Layer_4 .st57 {
+  fill: #33180E; }
+#Layer_4 .st58 {
+  fill: #2E180D; }
+#Layer_4 .st59 {
+  fill: #311C17; }
+#Layer_4 .st60 {
+  fill: #CD6140; }
+#Layer_4 .st61 {
+  fill: #301E0E; }
+#Layer_4 .st62 {
+  fill: #382A22; }
+#Layer_4 .st63 {
+  fill: #573B2B; }
+#Layer_4 .st64 {
+  fill: #32231E; }
+#Layer_4 .st65 {
+  fill: #432625; }
+#Layer_4 .st66 {
+  fill: #211919; }
+#Layer_4 .st67 {
+  fill: #281517; }
+#Layer_4 .st68 {
+  fill: #3F0F0A; }
+#Layer_4 .st69 {
+  fill: #371E1C; }
+#Layer_4 .st70 {
+  fill: #341413; }
+#Layer_4 .st71 {
+  fill: #AF554D; }
+#Layer_4 .st72 {
+  fill: #913934; }
+#Layer_4 .st73 {
+  fill: #61362D; }
+#Layer_4 .st74 {
+  fill: #CF6553; }
+#Layer_4 .st75 {
+  fill: #E7856C; }
+#Layer_4 .st76 {
+  fill: #4B0F00; }
+#Layer_4 .st77 {
+  fill: #D3714F; }
+#Layer_4 .st78 {
+  fill: #B84D3D; }
+#Layer_4 .st79 {
+  fill: #E48A67; }
+#Layer_4 .st80 {
+  fill: #3D0602; }
+#Layer_4 .st81 {
+  fill: #DD6E54; }
+#Layer_4 .st82 {
+  fill: #DE7364; }
+#Layer_4 .st83 {
+  fill: #EEA796; }
+#Layer_4 .st84 {
+  fill: #EF9B82; }
+#Layer_4 .st85 {
+  fill: #E68760; }
+#Layer_4 .st86 {
+  fill: #E28162; }
+#Layer_4 .st87 {
+  fill: #1E1303; }
+#Layer_4 .st88 {
+  fill: #441712; }
+#Layer_4 .st89 {
+  fill: #964139; }
+#Layer_4 .st90 {
+  fill: #621C2A; }
+#Layer_4 .st91 {
+  fill: #2E180F; }
+#Layer_4 .st92 {
+  fill: #261414; }
+#Layer_4 .st93 {
+  fill: #C66049; }
+#Layer_4 .st94 {
+  fill: #AC3A2D; }
+#Layer_4 .st95 {
+  fill: #D97464; }
+#Layer_4 .st96 {
+  fill: #DA694A; }
+#Layer_4 .st97 {
+  fill: #261412; }
+#Layer_4 .st98 {
+  fill: #2E1C19; }
+#Layer_4 .st99 {
+  fill: #D15347; }
+#Layer_4 .st100 {
+  fill: #E07E69; }
+#Layer_4 .st101 {
+  fill: #361716; }
+#Layer_4 .st102 {
+  fill: #241414; }
+#Layer_4 .st103 {
+  fill: #351913; }
+#Layer_4 .st104 {
+  fill: #D8705C; }
+#Layer_4 .st105 {
+  fill: #D97152; }
+#Layer_4 .st106 {
+  fill: #C35B3F; }
+#Layer_4 .st107 {
+  fill: #B93E35; }
+#Layer_4 .st108 {
+  fill: #B33229; }
+#Layer_4 .st109 {
+  fill: #EA906B; }
+#Layer_4 .st110 {
+  fill: #DD8662; }
+#Layer_4 .st111 {
+  fill: #3A1311; }
+#Layer_4 .st112 {
+  fill: #420F1B; }
+#Layer_4 .st113 {
+  fill: #40191E; }
+#Layer_4 .st114 {
+  fill: #6C1913; }
+#Layer_4 .st115 {
+  fill: #661819; }
+#Layer_4 .st116 {
+  fill: #370806; }
+#Layer_4 .st117 {
+  fill: #3A221F; }
+#Layer_4 .st118 {
+  fill: #3D160F; }
+#Layer_4 .st119 {
+  fill: #A73620; }
+#Layer_4 .st120 {
+  fill: #C84D41; }
+#Layer_4 .st121 {
+  fill: #9A302C; }
+#Layer_4 .st122 {
+  fill: #F5A594; }
+#Layer_4 .st123 {
+  fill: #F29474; }
+#Layer_4 .st124 {
+  fill: #C75033; }
+#Layer_4 .st125 {
+  fill: #6F2E28; }
+#Layer_4 .st126 {
+  fill: #241212; }
+#Layer_4 .st127 {
+  fill: #614043; }
+#Layer_4 .st128 {
+  fill: #261616; }
+#Layer_4 .st129 {
+  fill: #49201A; }
+#Layer_4 .st130 {
+  fill: #8B4643; }
+#Layer_4 .st131 {
+  fill: #913A47; }
+#Layer_4 .st132 {
+  fill: #F3B098; }
+#Layer_4 .st133 {
+  fill: #DE8563; }
+#Layer_4 .st134 {
+  fill: #E5855E; }
+#Layer_4 .st135 {
+  fill: #F8BBA4; }
+#Layer_4 .st136 {
+  fill: #FDCDBB; }
+#Layer_4 .st137 {
+  fill: #FECCB9; }
+#Layer_4 .st138 {
+  fill: #F7B69B; }
+#Layer_4 .st139 {
+  fill: #DB6347; }
+#Layer_4 .st140 {
+  fill: #C34F3C; }
+#Layer_4 .st141 {
+  fill: #DF805F; }
+#Layer_4 .st142 {
+  fill: #D66952; }
+#Layer_4 .st143 {
+  fill: #D87552; }
+#Layer_4 .st144 {
+  fill: #E1916B; }
+#Layer_4 .st145 {
+  fill: #D4714E; }
+#Layer_4 .st146 {
+  fill: #E48E70; }
+#Layer_4 .st147 {
+  fill: #FEDBD3; }
+#Layer_4 .st148 {
+  fill: #F3AB8F; }
+#Layer_4 .st149 {
+  fill: #F2896B; }
+#Layer_4 .st150 {
+  fill: #F1886A; }
+#Layer_4 .st151 {
+  fill: #DA5A48; }
+#Layer_4 .st152 {
+  fill: #FBC0AC; }
+#Layer_4 .st153 {
+  fill: #ECA283; }
+#Layer_4 .st154 {
+  fill: #DF8764; }
+#Layer_4 .st155 {
+  fill: #F5B69F; }
+#Layer_4 .st156 {
+  fill: #F9B7A0; }
+#Layer_4 .st157 {
+  fill: #FAB8A3; }
+#Layer_4 .st158 {
+  fill: #F9B39B; }
+#Layer_4 .st159 {
+  fill: #F29472; }
+#Layer_4 .st160 {
+  fill: #D65741; }
+#Layer_4 .st161 {
+  fill: #F9AD8C; }
+#Layer_4 .st162 {
+  fill: #FAC6B2; }
+#Layer_4 .st163 {
+  fill: #2E1D17; }
+#Layer_4 .st164 {
+  fill: #131A1D; }
+#Layer_4 .st165 {
+  fill: #E7996F; }
+#Layer_4 .st166 {
+  fill: #F2AD8F; }
+#Layer_4 .st167 {
+  fill: #D64730; }
+#Layer_4 .st168 {
+  fill: #F7AB8D; }
+#Layer_4 .st169 {
+  fill: #F9B696; }
+#Layer_4 .st170 {
+  fill: #F6BD9A; }
+#Layer_4 .st171 {
+  fill: #271613; }
+#Layer_4 .st172 {
+  fill: #231A20; }
+#Layer_4 .st173 {
+  fill: #432523; }
+#Layer_4 .st174 {
+  fill: #C95742; }
+#Layer_4 .st175 {
+  fill: #B64D3B; }
+#Layer_4 .st176 {
+  fill: #F2B084; }
+#Layer_4 .st177 {
+  fill: #271A19; }
+#Layer_4 .st178 {
+  fill: #211413; }
+#Layer_4 .st179 {
+  fill: #211A17; }
+#Layer_4 .st180 {
+  fill: #1E1315; }
+#Layer_4 .st181 {
+  fill: #241715; }
+#Layer_4 .st182 {
+  fill: #301E1F; }
+#Layer_4 .st183 {
+  fill: #F1DFD7; }
+#Layer_4 .st184 {
+  fill: #301F20; }
+#Layer_4 .st185 {
+  fill: #321E1F; }
+#Layer_4 .st186 {
+  fill: #4B2023; }
+#Layer_4 .st187 {
+  fill: #392626; }
+#Layer_4 .st188 {
+  fill: #332428; }
+#Layer_4 .st189 {
+  fill: #443132; }
+#Layer_4 .st190 {
+  fill: #352224; }
+#Layer_4 .st191 {
+  fill: #F1E5E0; }
+#Layer_4 .st192 {
+  fill: #F9DCCD; }
+#Layer_4 .st193 {
+  fill: #E09E7D; }
+#Layer_4 .st194 {
+  fill: #EFAE89; }
+#Layer_4 .st195 {
+  fill: #C75E3E; }
+#Layer_4 .st196 {
+  fill: #C4573F; }
+#Layer_4 .st197 {
+  fill: #BA4C41; }
+#Layer_4 .st198 {
+  fill: #CF6050; }
+#Layer_4 .st199 {
+  fill: #EA9F83; }
+#Layer_4 .st200 {
+  fill: #821612; }
+#Layer_4 .st201 {
+  fill: #FBC1BC; }
+#Layer_4 .st202 {
+  fill: #F5B390; }
+#Layer_4 .st203 {
+  fill: #EE9B80; }
+#Layer_4 .st204 {
+  fill: #BF4132; }
+#Layer_4 .st205 {
+  fill: #E78870; }
+#Layer_4 .st206 {
+  fill: #CF6751; }
+#Layer_4 .st207 {
+  fill: #9F3025; }
+#Layer_4 .st208 {
+  fill: #A43831; }
+#Layer_4 .st209 {
+  fill: #D26751; }
+#Layer_4 .st210 {
+  fill: #D56A57; }
+#Layer_4 .st211 {
+  fill: #E4946C; }
+#Layer_4 .st212 {
+  fill: #E2966C; }
+#Layer_4 .st213 {
+  fill: #D9513D; }
+#Layer_4 .st214 {
+  fill: #DF6E55; }
+#Layer_4 .st215 {
+  fill: #F5A38A; }
+#Layer_4 .st216 {
+  fill: #FBC8B7; }
+#Layer_4 .st217 {
+  fill: #F4B392; }
+#Layer_4 .st218 {
+  fill: #F9BAA1; }
+#Layer_4 .st219 {
+  fill: #EB7D58; }
+#Layer_4 .st220 {
+  fill: #F2A188; }
+#Layer_4 .st221 {
+  fill: #F3B59C; }
+#Layer_4 .st222 {
+  fill: #E68F73; }
+#Layer_4 .st223 {
+  fill: #DA725A; }
+#Layer_4 .st224 {
+  fill: #D78461; }
+#Layer_4 .st225 {
+  fill: #CB7247; }
+#Layer_4 .st226 {
+  fill: #E04642; }
+#Layer_4 .st227 {
+  fill: #D9565B; }
+#Layer_4 .st228 {
+  fill: #D6655F; }
+#Layer_4 .st229 {
+  fill: #CE564C; }
+#Layer_4 .st230 {
+  fill: #B14141; }
+#Layer_4 .st231 {
+  fill: #D1534D; }
+#Layer_4 .st232 {
+  fill: #842424; }
+#Layer_4 .st233 {
+  fill: #A2393B; }
+#Layer_4 .st234 {
+  fill: #E35953; }
+#Layer_4 .st235 {
+  fill: #F3A984; }
+#Layer_4 .st236 {
+  fill: #C42D2F; }
+#Layer_4 .st237 {
+  fill: #A42C24; }
+#Layer_4 .st238 {
+  fill: #871321; }
+#Layer_4 .st239 {
+  fill: #CA3137; }
+#Layer_4 .st240 {
+  fill: #871E27; }
+#Layer_4 .st241 {
+  fill: #F85261; }
+#Layer_4 .st242 {
+  fill: #DE404F; }
+#Layer_4 .st243 {
+  fill: #F96C7B; }
+#Layer_4 .st244 {
+  fill: #EB3932; }
+#Layer_4 .st245 {
+  fill: #B92C3A; }
+#Layer_4 .st246 {
+  fill: #D34747; }
+#Layer_4 .st247 {
+  fill: #B64932; }
+#Layer_4 .st248 {
+  fill: #FDA1A9; }
+#Layer_4 .st249 {
+  fill: #EF5C5D; }
+#Layer_4 .st250 {
+  fill: #F35E5F; }
+#Layer_4 .st251 {
+  fill: #F35654; }
+#Layer_4 .st252 {
+  fill: #DAA274; }
+#Layer_4 .st253 {
+  fill: #CA8562; }
+#Layer_4 .st254 {
+  fill: #DAAA80; }
+#Layer_4 .st255 {
+  fill: #D8936F; }
+#Layer_4 .st256 {
+  fill: #EAA17C; }
+#Layer_4 .st257 {
+  fill: #DC8961; }
+#Layer_4 .st258 {
+  fill: #DB7A58; }
+#Layer_4 .st259 {
+  fill: #F8C5A8; }
+#Layer_4 .st260 {
+  fill: #EEA882; }
+#Layer_4 .st261 {
+  fill: #F6C2A5; }
+#Layer_4 .st262 {
+  fill: #E4AB92; }
+#Layer_4 .st263 {
+  fill: #E79B84; }
+#Layer_4 .st264 {
+  fill: #E99A84; }
+#Layer_4 .st265 {
+  fill: #E18C71; }
+#Layer_4 .st266 {
+  fill: #D48867; }
+#Layer_4 .st267 {
+  fill: #F5AD94; }
+#Layer_4 .st268 {
+  fill: #F7C1A0; }
+#Layer_4 .st269 {
+  fill: #EFA988; }
+#Layer_4 .st270 {
+  fill: #FBC5AA; }
+#Layer_4 .st271 {
+  fill: #FAC2AE; }
+#Layer_4 .st272 {
+  fill: #F6AF90; }
+#Layer_4 .st273 {
+  fill: #F3B291; }
+#Layer_4 .st274 {
+  fill: #EEA181; }
+#Layer_4 .st275 {
+  fill: #EB8A64; }
+#Layer_4 .st276 {
+  fill: #CEAA84; }
+#Layer_4 .st277 {
+  fill: #DCA085; }
+#Layer_4 .st278 {
+  fill: #F6C7B5; }
+#Layer_4 .st279 {
+  fill: #FBD3C0; }
+#Layer_4 .st280 {
+  fill: #F1C1A8; }
+#Layer_4 .st281 {
+  fill: #F2BEA2; }
+#Layer_4 .st282 {
+  fill: #C69A7C; }
+#Layer_4 .st283 {
+  fill: #DAC3A4; }
+#Layer_4 .st284 {
+  fill: #E4D2C2; }
+#Layer_4 .st285 {
+  fill: #E1CEB8; }
+#Layer_4 .st286 {
+  fill: #FAF0EB; }
+#Layer_4 .st287 {
+  fill: #A83F2C; }
+#Layer_4 .st288 {
+  fill: #D57953; }
+#Layer_4 .st289 {
+  fill: #EBA784; }
+#Layer_4 .st290 {
+  fill: #E2916E; }
+#Layer_4 .st291 {
+  fill: #E9A085; }
+#Layer_4 .st292 {
+  fill: #E0956F; }
+#Layer_4 .st293 {
+  fill: #E89E7C; }
+#Layer_4 .st294 {
+  fill: #BA6245; }
+#Layer_4 .st295 {
+  fill: #B3593D; }
+#Layer_4 .st296 {
+  fill: #7A3425; }
+#Layer_4 .st297 {
+  fill: #DDB4A6; }
+#Layer_4 .st298 {
+  fill: #FDF7F5; }
+#Layer_4 .st299 {
+  fill: #D88E77; }
+#Layer_4 .st300 {
+  fill: #F3BDA3; }
+#Layer_4 .st301 {
+  fill: #F4B490; }
+#Layer_4 .st302 {
+  fill: #FCCEB9; }
+#Layer_4 .st303 {
+  fill: #E29B75; }
+#Layer_4 .st304 {
+  fill: #FEE4D6; }
+#Layer_4 .st305 {
+  fill: #FCD0BB; }
+#Layer_4 .st306 {
+  fill: #FFECE0; }
+#Layer_4 .st307 {
+  fill: #FDF5F2; }
+#Layer_4 .st308 {
+  fill: #3D2219; }
+#Layer_4 .st309 {
+  fill: #836B5A; }
+#Layer_4 .st310 {
+  fill: #D66E4F; }
+#Layer_4 .st311 {
+  fill: #3C3624; }
+#Layer_4 .st312 {
+  fill: #A6543D; }
+#Layer_4 .st313 {
+  fill: #482719; }
+#Layer_4 .st314 {
+  fill: #C86550; }
+#Layer_4 .st315 {
+  fill: #2F120D; }
+#Layer_4 .st316 {
+  fill: #F2AB85; }
+#Layer_4 .st317 {
+  fill: #241413; }
+#Layer_4 .st318 {
+  fill: #EA855B; }
+#Layer_4 .st319 {
+  fill: #FFFEFD; }
+#Layer_4 .st320 {
+  fill: #885F63; }
+#Layer_4 .st321 {
+  fill: #FFFFFF; }
+
+/*# sourceMappingURL=stylesheet.css.map */
