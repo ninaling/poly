@@ -1,13 +1,36 @@
-.display-container {
-  width: 100vw;
-  height: 100vh;
+html {
+  margin: 0px;
+  padding: 0px; }
+
+#crystal, #head, #banana {
   display: -webkit-flex;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center; }
-  .display-container .blue-quartz {
-    height: 40vh;
-    min-height: 200px; }
+
+#crystal .blue-quartz {
+  height: 40vh;
+  min-height: 200px; }
+
+#head #head-img {
+  height: 80vh;
+  max-height: 600px; }
+
+#banana .banana-img {
+  height: 100px;
+  margin: 20px; }
+  #banana .banana-img#flip {
+    transition: transform 0.5s ease-in-out; }
+    #banana .banana-img#flip:hover {
+      transform: rotateX(180deg) rotateY(180deg) rotateZ(180deg); }
+  #banana .banana-img#rotate {
+    transition: transform 0.2s ease-in-out; }
+    #banana .banana-img#rotate:hover {
+      transform: rotateZ(30deg) scale(1.1); }
+  #banana .banana-img#bump {
+    transition: transform 0.2s ease-in-out; }
+    #banana .banana-img#bump:hover {
+      transform: translateY(-10px); }
 
 /*# sourceMappingURL=stylesheet.css.map */

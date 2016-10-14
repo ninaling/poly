@@ -5,119 +5,136 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
       <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
       <link href="styles/stylesheet.css" rel="stylesheet" type="text/css"/>
+
+      <!--jQuery-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+      <script src="js/jquery.easing.1.3.min.js"></script>
+
+      <!--Javascript-->
+      <script src="js/ascensor.min.js" type="text/javascript"></script>
+      <script src="js/vivus.js" type="text/javascript"></script>
   </head>
 
   <body>
-
-    <div class="display-container">
-      <svg class="blue-quartz" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 367.1 418.5">
-        <style type="text/css">
-        	.st0{fill:#9AEFE8;}
-        	.st1{fill:#FFFFB6;}
-        	.st2{fill:#00AD90;}
-        	.st3{fill:#42E8C8;}
-        	.st4{fill:#0A9191;}
-        	.st5{fill:#099378;}
-        	.st6{fill:#269F92;}
-        	.st7{fill:#386B7E;}
-        	.st8{fill:#39C6A5;}
-        	.st9{fill:#5BC7B0;}
-        	.st10{fill:#539DDF;}
-        	.st11{fill:#06494C;}
-        	.st12{fill:#065058;}
-        	.st13{fill:#ABACC3;}
-        	.st14{fill:#9AEBED;}
-        	.st15{fill:#95E5C8;}
-        	.st16{fill:#007F67;}
-        	.st17{fill:#36A0A2;}
-        	.st18{fill:#288484;}
-        	.st19{fill:#6CE0DA;}
-        	.st20{fill:#4DB19D;}
-        	.st21{fill:#DBEF9E;}
-        	.st22{fill:#80D4D8;}
-        	.st23{fill:#10827C;}
-        	.st24{fill:#FEFADE;}
-        	.st25{fill:#FBDF98;}
-        	.st26{fill:#FFB6AE;}
-        	.st27{fill:#52CEC8;}
-        	.st28{fill:#B6EEFF;}
-        	.st29{fill:#298F8D;}
-        	.st30{fill:#3EBBA5;}
-        	.st31{fill:#6DDED3;}
-        	.st32{fill:#F2D299;}
-        	.st33{fill:#2E7274;}
-        	.st34{fill:#0D4F5C;}
-        	.st35{fill:#1E7B76;}
-        	.st36{fill:#79CEDB;}
-        	.st37{fill:#235C7B;}
-        	.st38{fill:#B8B5E8;}
-        	.st39{fill:#F2E0A5;}
-        	.st40{fill:#37A3BC;}
-        	.st41{fill:#50C8D8;}
-        	.st42{fill:#64BFE2;}
-        	.st43{fill:#4BA396;}
-        	.st44{fill:#7FEFE2;}
-        	.st45{fill:#9EF2BC;}
-        	.st46{fill:#FFFBB0;}
-        	.st47{fill:#FFE36C;}
-        	.st48{fill:#FCFFF7;}
-        	.st49{fill:#8AE6E7;}
-        </style>
-        <polygon class="st0" points="148.6,52.5 216.2,0 219.6,24.7 "/>
-        <polygon class="st1" points="219.6,24.7 198.9,229.3 148.6,52.5 "/>
-        <polygon class="st2" points="148.6,52.5 98.2,410.7 198.9,229.3 "/>
-        <polygon class="st3" points="148.6,52.5 115.6,95.3 98.2,410.7 "/>
-        <polygon class="st4" points="198.9,229.3 98.2,410.7 158.1,409 "/>
-        <polygon class="st5" points="232.9,275.3 198.9,229.3 158.1,409 "/>
-        <polygon class="st6" points="84,297.7 98.2,410.7 94.9,297.3 "/>
-        <polygon class="st7" points="84,297.7 98.2,410.7 64.1,307.4 "/>
-        <polygon class="st8" points="198.9,229.3 208.2,211.3 232.9,275.3 "/>
-        <polygon class="st9" points="64.1,307.4 36.2,355.3 98.2,410.7 "/>
-        <polygon class="st10" points="36.2,355.3 98.2,410.7 66.9,408.7 "/>
-        <polygon class="st11" points="232.9,275.3 158.1,409 176.2,405.3 "/>
-        <polygon class="st12" points="232.9,275.3 176.2,405.3 235.1,287.5 "/>
-        <polygon class="st13" points="0,313.5 66.9,408.7 36.2,355.3 "/>
-        <polygon class="st14" points="50.3,298.8 36.2,355.3 64.1,307.4 "/>
-        <polygon class="st15" points="0,313.5 50.3,298.8 36.2,355.3 "/>
-        <polygon class="st16" points="235.1,287.5 176.2,405.3 274.9,378 "/>
-        <polygon class="st17" points="176.2,405.3 222.1,418.5 158.1,409 "/>
-        <polygon class="st18" points="176.2,405.3 222.1,418.5 274.9,378 "/>
-        <polygon class="st19" points="69,301.1 64.1,307.4 84,297.7 "/>
-        <polygon class="st20" points="83.6,274.9 69,301.1 84,297.7 "/>
-        <polygon class="st21" points="83.6,274.9 94.9,297.3 84,297.7 "/>
-        <polygon class="st22" points="6,297.7 0,313.5 50.3,298.8 "/>
-        <polygon class="st23" points="235.1,287.5 274.9,378 279.4,297 "/>
-        <polygon class="st24" points="208.2,211.3 260.9,190 232.9,275.3 "/>
-        <polygon class="st25" points="260.9,190 235.1,287.5 232.9,275.3 "/>
-        <polygon class="st26" points="284.2,182 235.1,287.5 260.9,190 "/>
-        <polygon class="st10" points="274.9,378 281.6,396 222.1,418.5 "/>
-        <polygon class="st27" points="260.9,190 236.2,190.7 208.2,211.3 "/>
-        <polygon class="st28" points="236.2,190.7 284.2,182 260.9,190 "/>
-        <polygon class="st29" points="279.4,297 274.9,378 312.9,352.2 "/>
-        <polygon class="st30" points="321.6,265.3 235.1,287.5 279.4,297 "/>
-        <polygon class="st31" points="270.4,242.4 235.1,287.5 321.6,265.3 "/>
-        <polygon class="st32" points="279.4,297 358.2,343.3 312.9,352.2 "/>
-        <polygon class="st33" points="274.9,378 358.2,343.3 312.9,352.2 "/>
-        <polygon class="st34" points="274.9,378 358.2,343.3 312.4,368 "/>
-        <polygon class="st35" points="274.9,378 312.4,368 341.9,384 "/>
-        <polygon class="st36" points="274.9,378 341.9,384 322.2,412.7 "/>
-        <polygon class="st37" points="274.9,378 281.6,396 322.2,412.7 "/>
-        <polygon class="st38" points="279.4,297 295.6,296 358.2,343.3 "/>
-        <polygon class="st39" points="324.2,268.7 295.6,296 358.2,343.3 "/>
-        <polygon class="st40" points="279.4,297 321.6,265.3 295.6,296 "/>
-        <polygon class="st41" points="321.6,265.3 295.6,296 324.2,268.7 "/>
-        <polygon class="st42" points="321.6,265.3 324.2,268.7 335.1,246.5 "/>
-        <polygon class="st43" points="322.2,412.7 341.9,384 332.2,412 "/>
-        <polygon class="st44" points="330.1,163 270.4,242.4 321.6,265.3 "/>
-        <polygon class="st45" points="321.6,265.3 330.1,163 335.1,246.5 "/>
-        <polygon class="st46" points="330.1,163 335.1,246.5 349.6,203.3 "/>
-        <polygon class="st47" points="349.6,203.3 367.1,183.5 335.1,246.5 "/>
-        <polygon class="st48" points="330.1,163 349.6,203.3 367.1,183.5 "/>
-        <polygon class="st49" points="330.1,163 344.9,164 367.1,183.5 "/>
-      </svg>
+    <div id="ascensor">
+      <section id="crystal">
+        <svg class="blue-quartz" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 367.1 418.5">
+          <style type="text/css">
+          	.st0{fill:#9AEFE8;}
+          	.st1{fill:#FFFFB6;}
+          	.st2{fill:#00AD90;}
+          	.st3{fill:#42E8C8;}
+          	.st4{fill:#0A9191;}
+          	.st5{fill:#099378;}
+          	.st6{fill:#269F92;}
+          	.st7{fill:#386B7E;}
+          	.st8{fill:#39C6A5;}
+          	.st9{fill:#5BC7B0;}
+          	.st10{fill:#539DDF;}
+          	.st11{fill:#06494C;}
+          	.st12{fill:#065058;}
+          	.st13{fill:#ABACC3;}
+          	.st14{fill:#9AEBED;}
+          	.st15{fill:#95E5C8;}
+          	.st16{fill:#007F67;}
+          	.st17{fill:#36A0A2;}
+          	.st18{fill:#288484;}
+          	.st19{fill:#6CE0DA;}
+          	.st20{fill:#4DB19D;}
+          	.st21{fill:#DBEF9E;}
+          	.st22{fill:#80D4D8;}
+          	.st23{fill:#10827C;}
+          	.st24{fill:#FEFADE;}
+          	.st25{fill:#FBDF98;}
+          	.st26{fill:#FFB6AE;}
+          	.st27{fill:#52CEC8;}
+          	.st28{fill:#B6EEFF;}
+          	.st29{fill:#298F8D;}
+          	.st30{fill:#3EBBA5;}
+          	.st31{fill:#6DDED3;}
+          	.st32{fill:#F2D299;}
+          	.st33{fill:#2E7274;}
+          	.st34{fill:#0D4F5C;}
+          	.st35{fill:#1E7B76;}
+          	.st36{fill:#79CEDB;}
+          	.st37{fill:#235C7B;}
+          	.st38{fill:#B8B5E8;}
+          	.st39{fill:#F2E0A5;}
+          	.st40{fill:#37A3BC;}
+          	.st41{fill:#50C8D8;}
+          	.st42{fill:#64BFE2;}
+          	.st43{fill:#4BA396;}
+          	.st44{fill:#7FEFE2;}
+          	.st45{fill:#9EF2BC;}
+          	.st46{fill:#FFFBB0;}
+          	.st47{fill:#FFE36C;}
+          	.st48{fill:#FCFFF7;}
+          	.st49{fill:#8AE6E7;}
+          </style>
+          <polygon class="st0" points="148.6,52.5 216.2,0 219.6,24.7 "/>
+          <polygon class="st1" points="219.6,24.7 198.9,229.3 148.6,52.5 "/>
+          <polygon class="st2" points="148.6,52.5 98.2,410.7 198.9,229.3 "/>
+          <polygon class="st3" points="148.6,52.5 115.6,95.3 98.2,410.7 "/>
+          <polygon class="st4" points="198.9,229.3 98.2,410.7 158.1,409 "/>
+          <polygon class="st5" points="232.9,275.3 198.9,229.3 158.1,409 "/>
+          <polygon class="st6" points="84,297.7 98.2,410.7 94.9,297.3 "/>
+          <polygon class="st7" points="84,297.7 98.2,410.7 64.1,307.4 "/>
+          <polygon class="st8" points="198.9,229.3 208.2,211.3 232.9,275.3 "/>
+          <polygon class="st9" points="64.1,307.4 36.2,355.3 98.2,410.7 "/>
+          <polygon class="st10" points="36.2,355.3 98.2,410.7 66.9,408.7 "/>
+          <polygon class="st11" points="232.9,275.3 158.1,409 176.2,405.3 "/>
+          <polygon class="st12" points="232.9,275.3 176.2,405.3 235.1,287.5 "/>
+          <polygon class="st13" points="0,313.5 66.9,408.7 36.2,355.3 "/>
+          <polygon class="st14" points="50.3,298.8 36.2,355.3 64.1,307.4 "/>
+          <polygon class="st15" points="0,313.5 50.3,298.8 36.2,355.3 "/>
+          <polygon class="st16" points="235.1,287.5 176.2,405.3 274.9,378 "/>
+          <polygon class="st17" points="176.2,405.3 222.1,418.5 158.1,409 "/>
+          <polygon class="st18" points="176.2,405.3 222.1,418.5 274.9,378 "/>
+          <polygon class="st19" points="69,301.1 64.1,307.4 84,297.7 "/>
+          <polygon class="st20" points="83.6,274.9 69,301.1 84,297.7 "/>
+          <polygon class="st21" points="83.6,274.9 94.9,297.3 84,297.7 "/>
+          <polygon class="st22" points="6,297.7 0,313.5 50.3,298.8 "/>
+          <polygon class="st23" points="235.1,287.5 274.9,378 279.4,297 "/>
+          <polygon class="st24" points="208.2,211.3 260.9,190 232.9,275.3 "/>
+          <polygon class="st25" points="260.9,190 235.1,287.5 232.9,275.3 "/>
+          <polygon class="st26" points="284.2,182 235.1,287.5 260.9,190 "/>
+          <polygon class="st10" points="274.9,378 281.6,396 222.1,418.5 "/>
+          <polygon class="st27" points="260.9,190 236.2,190.7 208.2,211.3 "/>
+          <polygon class="st28" points="236.2,190.7 284.2,182 260.9,190 "/>
+          <polygon class="st29" points="279.4,297 274.9,378 312.9,352.2 "/>
+          <polygon class="st30" points="321.6,265.3 235.1,287.5 279.4,297 "/>
+          <polygon class="st31" points="270.4,242.4 235.1,287.5 321.6,265.3 "/>
+          <polygon class="st32" points="279.4,297 358.2,343.3 312.9,352.2 "/>
+          <polygon class="st33" points="274.9,378 358.2,343.3 312.9,352.2 "/>
+          <polygon class="st34" points="274.9,378 358.2,343.3 312.4,368 "/>
+          <polygon class="st35" points="274.9,378 312.4,368 341.9,384 "/>
+          <polygon class="st36" points="274.9,378 341.9,384 322.2,412.7 "/>
+          <polygon class="st37" points="274.9,378 281.6,396 322.2,412.7 "/>
+          <polygon class="st38" points="279.4,297 295.6,296 358.2,343.3 "/>
+          <polygon class="st39" points="324.2,268.7 295.6,296 358.2,343.3 "/>
+          <polygon class="st40" points="279.4,297 321.6,265.3 295.6,296 "/>
+          <polygon class="st41" points="321.6,265.3 295.6,296 324.2,268.7 "/>
+          <polygon class="st42" points="321.6,265.3 324.2,268.7 335.1,246.5 "/>
+          <polygon class="st43" points="322.2,412.7 341.9,384 332.2,412 "/>
+          <polygon class="st44" points="330.1,163 270.4,242.4 321.6,265.3 "/>
+          <polygon class="st45" points="321.6,265.3 330.1,163 335.1,246.5 "/>
+          <polygon class="st46" points="330.1,163 335.1,246.5 349.6,203.3 "/>
+          <polygon class="st47" points="349.6,203.3 367.1,183.5 335.1,246.5 "/>
+          <polygon class="st48" points="330.1,163 349.6,203.3 367.1,183.5 "/>
+          <polygon class="st49" points="330.1,163 344.9,164 367.1,183.5 "/>
+        </svg>
+      </section>
+      <section id="head">
+        <object id="head-img" type="image/svg+xml" data="assets/head.svg"></object>
+      </section>
+      <section id="banana">
+        <object id="flip" class="banana-img" type="image/svg+xml" data="assets/banana.svg"></object>
+        <object id="rotate" class="banana-img" type="image/svg+xml" data="assets/banana.svg"></object>
+        <object id="bump" class="banana-img" type="image/svg+xml" data="assets/banana.svg"></object>
+      </section>
     </div>
 
-    <script src="script.js" type="text/javascript"></script>
+    <script src="js/script.js" type="text/javascript"></script>
   </body>
 
 </html>
