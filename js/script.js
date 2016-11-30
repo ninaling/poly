@@ -40,7 +40,7 @@ tmax_tl.staggerFromTo(svg_shapes, duration, stagger_opts_from, stagger_opts_to, 
 $(document).ready(function(){
   var ascensor = $('#ascensor').ascensor({
     childType: "section",
-    ascensorFloorName: ['crystal','head', 'banana'],
+    ascensorFloorName: ['title', 'about', 'crystal', 'head', 'banana', 'demos'],
     time: 650,
     windowsOn: 0,
     direction: 'x',

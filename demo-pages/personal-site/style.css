@@ -1,0 +1,40 @@
+/*
+#container {
+    background-color: red;
+    color: white;
+    
+    font-family: sans-serif;
+    
+    
+}*/
+
+#pic-container{
+    height: 95vh;
+    max-height: 100%;
+    
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#my-picture{
+    height: 40vh;
+    border-radius: 50%;
+}
+
+#name {
+    font-family: 'Satisfy', cursive;
+}
+
+#line-container {
+    height: 95vh;
+    max-height: 100%;
+    
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

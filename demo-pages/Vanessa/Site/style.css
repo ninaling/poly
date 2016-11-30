@@ -1,0 +1,67 @@
+#landing {
+    height: 100vh;
+    max-height: 100%;
+}
+
+#about-container {
+    text-align: center;
+        font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+}
+
+#profile-pic-container {
+    margin-top: 120px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#profile-pic {
+    width: 85%;   
+    border-radius: 10%;
+}
+
+.title {
+    font-size: 28px; 
+}
+
+.instagram {
+    height: 180px;
+}
+
+.artwork{
+    height:400px;
+}
+/*
+this is a media query, which will change the properties
+of elements based on the width of the browser screen
+*/
+@media (max-width: 767px) { 
+    .title {
+        font-size: 25px;
+    }
+}
+
+.text {
+    font-size: 14px;   
+}
+
+/*another media query*/
+@media (max-width: 767px) { 
+    .text {
+        font-size: 12px;
+    }
+}
+
+#content {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color: azure;
+}
+
+.content-block {
+    margin-top: 50px;
+}
+
+.description-title {
+
+}
